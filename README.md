@@ -1,4 +1,4 @@
-Simple Analog Clock using Python Turtle 🕰️
+# **Simple Analog Clock using Python Turtle 🕰️
 This project is a real-time analog clock created using the Turtle graphics module in Python. It features a visually appealing clock face, dynamic hands for hours, minutes, and seconds, and interactive graphics that update every second.
 
 🖥️ Demo
