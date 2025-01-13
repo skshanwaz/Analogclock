@@ -22,7 +22,7 @@ The clock dynamically updates based on the current system time, providing a live
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/simple-analog-clock.git
+   git clone https://github.com/skshanwaz/Analogclock.git
    ```
 2. Navigate to the project directory:
    ```bash
